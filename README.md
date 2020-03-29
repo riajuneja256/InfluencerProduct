@@ -1,0 +1,2 @@
+# InfluencerProduct
+React + Redux
